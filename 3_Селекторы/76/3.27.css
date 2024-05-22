@@ -1,3 +1,3 @@
-p .eee {
-	color: green;
+div[id="block"] .bbb{
+	color:red;
 }
