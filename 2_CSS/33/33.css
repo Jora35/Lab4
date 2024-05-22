@@ -1,6 +1,4 @@
-td {
-	font-weight: normal;
-}
 p {
-	font-weight: bold;
+	text-align: justify;
+	width: 300px;
 }
