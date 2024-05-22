@@ -1,3 +1,9 @@
-p .eee {
-	color: green;
+a:link, a:visited {
+	color: red;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	color: blue;
 }
