@@ -1,6 +1,10 @@
-h2 {
-	font-weight: normal;
+table{
+	width:500px;
+    height: 300px;
 }
-p {
+td {
 	font-weight: bold;
+}
+th{
+    font-weight: normal;
 }
